@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.district-egypt.com	TRUE	/	FALSE	1999999999	__cfduid	d49afe6bd3eec6e4117e30292d04263171500193380
+
